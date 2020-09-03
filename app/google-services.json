@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339533512876",
+    "firebase_url": "https://drilltracc-cd158.firebaseio.com",
+    "project_id": "drilltracc-cd158",
+    "storage_bucket": "drilltracc-cd158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339533512876:android:34f20459c14359dd0c5f09",
+        "android_client_info": {
+          "package_name": "com.example.drilltracc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339533512876-eee9pi2m8s6c19l30hlmia2vg8k6n2su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drilltracc",
+            "certificate_hash": "4ba97f0c66d37bc9bb0b0100e36d2db643464e57"
+          }
+        },
+        {
+          "client_id": "339533512876-lc4mj6cdd8pttsho0lb6eda8p7ockk52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX102qJlCl_C-gjYqQhLpyl_nXsVFrt2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339533512876-lc4mj6cdd8pttsho0lb6eda8p7ockk52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
